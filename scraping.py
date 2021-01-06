@@ -105,7 +105,7 @@ if __name__ == "__main__":
     # If running as script, print scraped data
     print(scrape_all())
 
-
+# My code to review later
 '''
 # import Splinter, Beautiful Soup, Pandas, and Datetime
 from splinter import Browser
